@@ -3,3 +3,4 @@
 [/assests/audio/sfx/golenpedra.mp3](https://github.com/user-attachments/files/26859415/-assests-audio-sfx-golenpedra.mp3)
 [/assets/audio/music.mp3](https://github.com/user-attachments/files/26859412/-assets-audio-music.mp3)
 [/sound/ambience/medieval_music.wav](https://github.com/user-attachments/files/26870616/Loop_The_Old_Tower_Inn.wav)
+[/sound/sfx/bones_rattle.ogg](https://github.com/user-attachments/files/26870856/bones_rattle.zip)
