@@ -1,7 +1,7 @@
 # 🏰 Siege Of Crowns
 
 ## 📖 Documentação do Projeto
-
+- [SDD - Sound Design Document](docs/sdd/SDD.md)
 
 ---
 
