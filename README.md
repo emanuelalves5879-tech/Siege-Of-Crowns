@@ -36,6 +36,7 @@
 ## 🗂️ Estrutura do Projeto
 
 Siege-Of-Crowns/
+
 ├── main.py
 ├── README.md
 │
@@ -63,6 +64,7 @@ Siege-Of-Crowns/
 │   ├── GameConfig.luau
 │   ├── GladiatorCollisionSetup.luau
 │   └── Main.rbxmx
+
 ---
 ## 🎨 Organização dos Assets
 
