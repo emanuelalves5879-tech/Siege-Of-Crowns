@@ -37,7 +37,7 @@
 
 
 ```text
-├Siege-Of-Crowns/
+Siege-Of-Crowns/
 ├── main.py
 ├── README.md
 │
