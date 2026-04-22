@@ -35,8 +35,9 @@
 ---
 ## 🗂️ Estrutura do Projeto
 
-Siege-Of-Crowns/
+
 ```text
+├Siege-Of-Crowns/
 ├── main.py
 ├── README.md
 │
