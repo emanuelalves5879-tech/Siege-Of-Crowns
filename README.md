@@ -59,6 +59,10 @@ Siege-Of-Crowns/
 │   ├── CollisionConfig.luau
 │   ├── GameConfig.luau
 │   ├── GladiatorCollisionSetup.luau
+│   ├── FixPlayerScale.luau
+│   ├── GoldCount.luau
+│   ├── GoldLeaderboard.luau
+│   ├── MobAnimations.luau
 │   └── Main.rbxmx
 ```
 ---
