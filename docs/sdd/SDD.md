@@ -28,7 +28,7 @@ A proposta sonora está alinhada ao gênero estratégico em tempo real:
 
 ---
 
-## 4. Sistema de Áudio - Link](docs/Sounds.md) 
+## 4. Sistema de Áudio - - [Links](docs/Sounds.md)
 
 ### 4.1 Trilhas musicais
 
