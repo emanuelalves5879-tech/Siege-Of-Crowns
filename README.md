@@ -1,6 +1,6 @@
 # 🏰 Siege Of Crowns TD
 
-Jogo Tower Defense com temática medieval desenvolvido no Roblox Studio, indicado para todas as idades. O jogador precisa posicionar três tipos de torres de ataque( Gladiador, arqueira e canhão) ao longo do caminho e impedir que ondas de monstros cheguem ao vilarejo. Entre uma onda e outra, o jogador usa o dinheiro coletado para posicionar novas torres ou melhorar as que já estão no campo.
+Jogo Tower Defense com temática medieval desenvolvido no Roblox Studio, indicado para todas as idades. O jogador precisa posicionar três tipos de torres de ataque( gladiador, arqueira e canhão) ao longo do caminho e impedir que ondas de monstros cheguem ao vilarejo. Entre uma onda e outra, o jogador usa o dinheiro coletado para posicionar novas torres ou melhorar as que já estão no campo.
 
 
 
