@@ -15,7 +15,7 @@ Jogo Tower Defense com temática medieval desenvolvido no Roblox Studio, indicad
 | Emanuel e Gabriel Cardoso | Arte e cenários |
 | Erick, Ítalo e Maria Eduarda| Trilha sonora e efeitos |
 | Lucas e Rafael | Pesquisa e avaliação de impacto |
-| Todos os integrantes | Documentação( GDD, SDD e Repositório)
+| Todos os integrantes | Documentação( GDD, SDD e Repositório) |
 ---
 
 ## 🎯 Objetivo do Pacote
@@ -29,67 +29,30 @@ Este repositório possui todos os assets, documentações e arquivos do jogo Tow
 
 ### 🎵 Sons
 Efeitos sonoros, música ambiente e feedbacks sonoros. 
+No momento, temos sons apenas nos formatos WAV e OGG.
+Música ambiente = música com temática medieval em loop.
 
+### 🖼️ Cenário
+Arquivos com os assets e modelagens de cenário.
 
-### 🖼️ Sprites / Arte
-Descrição dos assets visuais — personagens, torres, inimigos, UI.
+### 📄 Docs
+Sound Design Document e será adicionado, posteriormente, o Game Design Document
 
-### 🗺️ Mapas / Fases
-Descrição dos arquivos de mapa ou fases do jogo.
-
-### 📄 Documentação
-Descrição dos documentos técnicos, diagramas, relatórios.
-
-### 💻 Código-Fonte
-Descrição dos arquivos de código — linguagem, estrutura principal.
+### 💻 Scripts
+Scripts de colisão, configurações do jogo, sistema de moedas, spawn de mobs, animação de mobs, sistema de posicionamento das torres.
+Todos feitos em linguagem Luau, a linguagem utilizada no Roblox Studio.
 
 ---
 
 ## 🛠️ Ferramentas Usadas
 
-- **Engine/Framework:** Ex: Godot, Unity, Phaser
-- **Linguagem:** Ex: GDScript, C#, JavaScript
-- **Edição de áudio:** Ex: Audacity
-- **Arte/Design:** Ex: Aseprite, Figma
+- **Engine/Framework:** Roblox Studio
+- **Linguagem:** Luau
+- **Áudios e edição:** OpenGameArt e Audacity
 - **Versionamento:** Git + GitHub
 
 ---
 
-## 🗂️ Organização da Pasta
-
-```
-📦 Repositório
-├── 📁 Docs/
-│   ├── Sounds.md
-│   ├── Sprites.md
-│   └── ...
-├── 📁 Assets/
-│   ├── 📁 Sounds/
-│   ├── 📁 Sprites/
-│   └── ...
-├── 📁 Src/
-│   └── (arquivos de código)
-└── README.md
-```
-
----
-
-## 🔗 Observações de Integração
-
-- Descreva aqui como as partes do projeto se conectam entre si.
-- Ex: Os arquivos de som referenciados em `Sounds.md` devem estar na pasta `Assets/Sounds/`.
-- Ex: Os sprites seguem o padrão de nomenclatura `tipo_nome_estado.png`.
-- Qualquer convenção que a equipe adotou para manter consistência entre os arquivos.
-
----
-
-## 📚 Disciplina
-
-- **Curso:** Sistemas de Informação  
-- **Disciplina:**  
-- **Professor:**  
-- **Instituição:**
----
 ## 🗂️ Estrutura do Projeto
 
 
@@ -124,6 +87,17 @@ Siege-Of-Crowns/
 ```
 
 ---
-## 👥 Créditos
 
+## 🔗 Observações de Integração
+
+Os scripts .luau localizados em scripts/ são executados dentro do ambiente Roblox e dependem diretamente dos modelos .rbxm da pasta Cenário/ — por exemplo, CollisionConfig.luau e GladiatorCollisionSetup.luau referenciam os objetos de colisão dos cenários, enquanto MobAnimations.luau depende de Mobs.rbxm e GoldCount.luau / GoldLeaderboard.luau interagem com a lógica de jogo orquestrada por Main.rbxmx. O arquivo main.py atua como ponto de entrada externo ao Roblox, para automação e configuração do ambiente. A documentação em docs/SDD/SDD.md deve refletir qualquer alteração feita nos scripts ou modelos, e os assets de som referenciados em sons/Sounds.md estarão devidamente vinculados aos scripts que os acionam dentro do jogo.
+
+---
+
+## 📚 Disciplina
+
+- **Curso:** Sistemas de Informação  
+- **Disciplina:** Desenvolvimento, design e sons em jogos digitais 
+- **Professores:** Arly Alves e Rodrigo de Carvalho
+- **Instituição:** União Pioneira de Integração Social ( UPIS )
 ---
