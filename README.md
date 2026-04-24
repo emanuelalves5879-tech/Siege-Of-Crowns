@@ -28,7 +28,8 @@ Este repositório possui todos os assets, documentações e arquivos do jogo Tow
 ## 📂 Conteúdo por Categoria
 
 ### 🎵 Sons
-Descrição do que está nesta pasta — tipos de sons, formato, origem.
+Efeitos sonoros, música ambiente e feedbacks sonoros. 
+
 
 ### 🖼️ Sprites / Arte
 Descrição dos assets visuais — personagens, torres, inimigos, UI.
