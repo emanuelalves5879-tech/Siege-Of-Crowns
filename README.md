@@ -36,7 +36,7 @@ Música ambiente = música com temática medieval em loop.
 Arquivos com os assets e modelagens de cenário.
 
 ### 📄 Docs
-- [SDD - Sound Design Document](docs/SDD.md)
+- [SDD - Sound Design Document](docs/sdd/SDD.md)
 Sound Design Document e será adicionado, posteriormente, o Game Design Document
 
 ### 💻 Scripts
