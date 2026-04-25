@@ -37,7 +37,7 @@ Arquivos com os assets e modelagens de cenário.
 
 ### 📄 Docs
 - [SDD - Sound Design Document](docs/sdd/SDD.md)
-Sound Design Document e será adicionado, posteriormente, o Game Design Document
+
 
 ### 💻 Scripts
 Scripts de colisão, configurações do jogo, sistema de moedas, spawn de mobs, animação de mobs, sistema de posicionamento das torres.
