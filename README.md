@@ -37,6 +37,7 @@ Arquivos com os assets e modelagens de cenário.
 
 ### 📄 Docs
 - [SDD - Sound Design Document](docs/sdd/SDD.md)
+- [GDD - Game Desing Document] 
 
 
 ### 💻 Scripts
