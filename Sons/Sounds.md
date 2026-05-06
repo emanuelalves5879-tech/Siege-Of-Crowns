@@ -9,4 +9,4 @@
 
 ## [/sound/sfx/skeleton.ogg](https://github.com/user-attachments/files/26870856/bones_rattle.zip)
 
-## [/sound/sfx/Globin-SFX.zip](https://github.com/user-attachments/files/27439320/Globin-SFX.zip)
+## [/sound/sfx/GoblinDeath.wav](https://github.com/user-attachments/files/27439320/Globin-SFX.zip)
