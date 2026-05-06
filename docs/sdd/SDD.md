@@ -45,7 +45,7 @@ A proposta sonora está alinhada ao gênero estratégico em tempo real:
 | `/sound/sfx/tower_placement.wav` | SFX | Posicionar torre no campo de batalha |
 | `/sound/sfx/esqueletos.wav` | SFX | Morte dos esqueletos |
 | `/sfx/golenpedra/wav.wav` | SFX | Destruição de golem de pedra |
-| `/sound/sfx/GoblinDeath.wav` | SFX | Morte dos Globins |
+| `/sound/sfx/GoblinDeath.wav` | SFX | Morte dos Goblins |
 ---
 
 ## 5. Função dos componentes sonoros
