@@ -8,3 +8,5 @@
 ## [/sound/ambience/medieval_music.wav](https://github.com/user-attachments/files/26870616/Loop_The_Old_Tower_Inn.wav)
 
 ## [/sound/sfx/skeleton.ogg](https://github.com/user-attachments/files/26870856/bones_rattle.zip)
+
+## [Globin-SFX.zip](https://github.com/user-attachments/files/27439320/Globin-SFX.zip)
